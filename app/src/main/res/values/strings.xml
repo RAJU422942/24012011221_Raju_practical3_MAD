@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">24012011221_Raju_practical3_MAD</string>
+    <string name="app_name">practical3_MAD</string>
 
     <!-- Login Screen Strings -->
     <string name="email_id">Email Id</string>
