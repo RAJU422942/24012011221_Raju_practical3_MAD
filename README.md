@@ -39,7 +39,12 @@ This Android application demonstrates the use of **Intents** (Implicit and Expli
 4. Run the app on an Emulator or a Physical Device.
 
 ## Screenshots
-*(Add your screenshots here for the practical file)*
+<img width="367" height="802" alt="image" src="https://github.com/user-attachments/assets/edaa979a-12e4-4571-a39f-2c5b63280bee" />
+<img width="380" height="801" alt="image" src="https://github.com/user-attachments/assets/330c0a47-2156-40d0-bd65-83f6604fe887" />
+
+
+
+
 
 ---
 *Created as part of the MAD Course Practical Curriculum.*
